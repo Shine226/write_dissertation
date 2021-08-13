@@ -1,7 +1,9 @@
 1. Please provide a "confidence score" for your assessment of this submission [Very high, high, low, not my area]
+
 Low/not my area
 
 2. Summary and Contributions: Summarize the paper and its contributions.
+
 The paper evaluates different embedding strategies to perform the task of identifying duplicate police reports. It also studies the task on summarized sentences and original sentences. This work applies a trained Doc2Vec model to compare with others.
 
 3. Describe the strengths of the work.
