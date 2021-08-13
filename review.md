@@ -20,7 +20,8 @@ The paper evaluates different embedding strategies to perform the task of identi
 5. List any minor issues with the paper.
 
 * Paper has some grammar issues, and some sentences are hard to read.
-* Table 2 label is not used correctly.
+  * "from the narrative of the police report categorize the narrative into one type of crime as burglary, fraud, or robbery, for instance"
+* Table 2 label is not used correctly (in section IV part B: "Table IV-B").
 * Table style is not good.
 * Fig. 1 is not cited.
 * It is hard to compare the results of summarized sentence with original sentence from two different tables. Putting table 1 and table 2 together makes easy comparison between with summarization and without it.
